@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="title">doge.jpg</file>
+        <file alias="exit">exit.ico</file>
+        <file alias="help">help.png</file>
+        <file alias="sourcecode">sourcecode.png</file>
+        <file alias="showdock">showdock.jpg</file>
+        <file alias="generate">generate.png</file>
+        <file alias="process">process.png</file>
+        <file alias="open">open.png</file>
+        <file alias="list2">list2.png</file>
+        <file alias="list">list.png</file>
+        <file alias="listicon">listicon.jpg</file>
+        <file alias="listicon2">listicon2.jpg</file>
+        <file alias="delete">delete.png</file>
+        <file alias="clearall">clearall.png</file>
+    </qresource>
+</RCC>

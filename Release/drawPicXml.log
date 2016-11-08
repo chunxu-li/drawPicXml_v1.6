@@ -1,0 +1,60 @@
+﻿生成启动时间为 11/8/2016 5:48:09 PM。
+     1>项目“D:\Documents\Visual Studio 2013\Projects\Pic_XML\drawPicXml_v1.6\drawPicXml.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Moc'ing drawpicxml.h...
+         Qt: Untested Windows version 10.0 detected!
+         Uic'ing drawpicxml.ui...
+         Moc'ing processimage.h...
+         Qt: Untested Windows version 10.0 detected!
+         Moc'ing loadinfo.h...
+         Qt: Untested Windows version 10.0 detected!
+         Moc'ing paintarea.h...
+         Qt: Untested Windows version 10.0 detected!
+         Rcc'ing drawpicxml.qrc...
+         Qt: Untested Windows version 10.0 detected!
+         Uic'ing loadinfo.ui...
+         Uic'ing processimage.ui...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_drawpicxml.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_drawpicxml.cpp, GeneratedFiles\Release\moc_drawpicxml.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_loadinfo.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_loadinfo.cpp, GeneratedFiles\Release\moc_loadinfo.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_paintarea.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_paintarea.cpp, GeneratedFiles\Release\moc_paintarea.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_processimage.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_processimage.cpp, GeneratedFiles\Release\moc_processimage.cpp.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\5.4\msvc2013\include /I.\GeneratedFiles\Release /ID:\Qt\5.4\msvc2013\include\QtCore /ID:\Qt\5.4\msvc2013\include\QtGui /ID:\Qt\5.4\msvc2013\include\QtWidgets /ID:\Qt\5.4\msvc2013\include\QtXml /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_XML_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt drawpicxml.cpp GeneratedFiles\Release\moc_drawpicxml.cpp GeneratedFiles\Release\moc_loadinfo.cpp GeneratedFiles\Release\moc_paintarea.cpp GeneratedFiles\Release\moc_processimage.cpp loadinfo.cpp main.cpp ObjStorage.cpp paintarea.cpp processimage.cpp
+         drawpicxml.cpp
+     1>drawpicxml.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\documents\visual studio 2013\projects\pic_xml\drawpicxml_v1.6\paintarea.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         moc_drawpicxml.cpp
+     1>d:\documents\visual studio 2013\projects\pic_xml\drawpicxml_v1.6\paintarea.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         moc_loadinfo.cpp
+         moc_paintarea.cpp
+     1>d:\documents\visual studio 2013\projects\pic_xml\drawpicxml_v1.6\generatedfiles\release\../../paintarea.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         moc_processimage.cpp
+         loadinfo.cpp
+         main.cpp
+     1>d:\documents\visual studio 2013\projects\pic_xml\drawpicxml_v1.6\paintarea.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         ObjStorage.cpp
+         paintarea.cpp
+     1>paintarea.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\documents\visual studio 2013\projects\pic_xml\drawpicxml_v1.6\paintarea.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         processimage.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\5.4\msvc2013\include /I.\GeneratedFiles\Release /ID:\Qt\5.4\msvc2013\include\QtCore /ID:\Qt\5.4\msvc2013\include\QtGui /ID:\Qt\5.4\msvc2013\include\QtWidgets /ID:\Qt\5.4\msvc2013\include\QtXml /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_XML_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_drawpicxml.cpp
+         qrc_drawpicxml.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Documents\Visual Studio 2013\Projects\Pic_XML\drawPicXml_v1.6\Win32\Release\\drawPicXml.exe" /NOLOGO /LIBPATH:D:\Qt\5.4\msvc2013\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib Qt5Xml.lib winmm.lib dxerr.lib dxguid.lib d3dx9d.lib d3dx10d.lib d3d9.lib comctl32.lib opencv_calib3d2413d.lib opencv_contrib2413d.lib opencv_core2413d.lib opencv_features2d2413d.lib opencv_flann2413d.lib opencv_gpu2413d.lib opencv_highgui2413d.lib opencv_imgproc2413d.lib opencv_legacy2413d.lib opencv_ml2413d.lib opencv_nonfree2413d.lib opencv_objdetect2413d.lib opencv_ocl2413d.lib opencv_photo2413d.lib opencv_stitching2413d.lib opencv_superres2413d.lib opencv_ts2413d.lib opencv_video2413d.lib opencv_videostab2413d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:\Documents\Visual Studio 2013\Projects\Pic_XML\drawPicXml_v1.6\Win32\Release\drawPicXml.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Documents\Visual Studio 2013\Projects\Pic_XML\drawPicXml_v1.6\Win32\Release\drawPicXml.lib" /MACHINE:X86 /SAFESEH Release\drawpicxml.obj
+         Release\qrc_drawpicxml.obj
+         Release\moc_drawpicxml.obj
+         Release\moc_loadinfo.obj
+         Release\moc_paintarea.obj
+         Release\moc_processimage.obj
+         Release\loadinfo.obj
+         Release\main.obj
+         Release\ObjStorage.obj
+         Release\paintarea.obj
+         Release\processimage.obj
+         drawPicXml.vcxproj -> D:\Documents\Visual Studio 2013\Projects\Pic_XML\drawPicXml_v1.6\Win32\Release\drawPicXml.exe
+     1>已完成生成项目“D:\Documents\Visual Studio 2013\Projects\Pic_XML\drawPicXml_v1.6\drawPicXml.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:15.54

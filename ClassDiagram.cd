@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ObjStorage">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>PABIAAgAIAAAAAEAAIAAAAABAAAHAADAFAQEgEBAEAA=</HashCode>
+      <FileName>ObjStorage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drawPicXml">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAABAAgAECCEAAEAAAIAwAAAIEAAgEAAAAAQAAE=</HashCode>
+      <FileName>drawpicxml.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="processimage">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAEAAAAAAAIAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>processimage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="loadInfo">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAEAAEAEAAIAAAAAIAAACIAABEAQAAgAIAAA=</HashCode>
+      <FileName>loadinfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaintArea">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgQCAAAAABAEAAARFAAAAJAEAAQAAAAQAEBAAIAIAA=</HashCode>
+      <FileName>paintarea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_drawPicXmlClass" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAEgJEAQQISKJBFANCQoAYAJADAgACAAMBApwA=</HashCode>
+      <FileName>GeneratedFiles\ui_drawpicxml.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_loadInfo" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAwQIAAAACAABACEQAAAgAAAQJIACAQKAAAMAABAA=</HashCode>
+      <FileName>GeneratedFiles\ui_loadinfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_processimage" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAQAAAAABBAAAAAAAIAAAwAIAAAAIAAAYAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_processimage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::processimage" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_processimage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::loadInfo" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_loadinfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::drawPicXmlClass" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_drawpicxml.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="qt_meta_stringdata_drawPicXml_t" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_drawpicxml.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_loadInfo_t" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_loadinfo.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_PaintArea_t" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_paintarea.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_processimage_t" Collapsed="true">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_processimage.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="`anonymous-namespace'::initializer" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEA=</HashCode>
+      <FileName>GeneratedFiles\qrc_drawpicxml.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
